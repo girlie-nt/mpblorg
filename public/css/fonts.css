@@ -1,0 +1,36 @@
+@font-face {
+  font-family: 'montserrat';
+  src: url('/fonts/montserrat/Montserrat-Regular.ttf');
+}
+@font-face {
+  font-family: 'montserrat-bold';
+  src: url('/fonts/montserrat/Montserrat-Bold.ttf');
+}
+@font-face {
+  font-family: 'december-pastel';
+  src: url('/fonts/december-pastel/December-Pastel.otf');
+}
+@font-face {
+  font-family: 'remachine-script';
+  src: url('/fonts/remachine-script/RemachineScript.ttf');
+}
+@font-face {
+  font-family: 'rowland';
+  src: url('/fonts/rowland/Rowland-Light.otf');
+}
+@font-face {
+  font-family: 'modia';
+  src: url('/fonts/modia/Modia.otf');
+}
+@font-face {
+  font-family: 'aliment';
+  src: url('/fonts/aliment/Aliment-Thin.ttf');
+}
+@font-face {
+  font-family: 'roboto';
+  src: url('/fonts/roboto/Roboto-Thin.ttf');
+}
+@font-face {
+  font-family: 'roboto-italic';
+  src: url('/fonts/roboto/roboto-Italic.ttf');
+}

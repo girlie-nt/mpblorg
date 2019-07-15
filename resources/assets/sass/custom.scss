@@ -1,0 +1,21 @@
+#footer{
+	color: #fff;
+    background-color: #000;
+    padding: 10px;
+}
+
+.wrapper-inside{
+	width: 100%;
+    max-width: 940px;
+    margin: 0 auto;
+    height: 83px;
+    position: relative;
+}
+
+.navbar-inverse {
+	background-color: transparent !important;  //ONScroll #d51d25e8
+	border-color: transparent !important;
+	position: fixed;
+	width: 100%;
+	border:0;
+}
